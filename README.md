@@ -1,6 +1,6 @@
 # serveur-mail
 
-Projet *ASR5* de Naudion Melvin et Perie Arthur en *C/C++*
+Projet de serveur et client mail pour la matière *ASR5* de Lyon 1 en 2eme année en *C/C++* 
 
 Commencez par : make
 
